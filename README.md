@@ -29,4 +29,3 @@ This project explores the Titanic dataset to understand how gender, passenger cl
 Kaggle Titanic: Machine Learning from Disaster
 - 891 records, 12 attributes
 
-Manipal Institute of Technology, Manipal
