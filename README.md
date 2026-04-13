@@ -1,2 +1,1 @@
-data analytics
-analysis of titanic dataset
+Analysis of Titanic dataset using Data visulaization 
